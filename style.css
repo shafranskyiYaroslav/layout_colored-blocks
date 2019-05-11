@@ -1,0 +1,23 @@
+.red-bar {
+  background-color: #f00;
+  width: 1025px;
+  height: 100px;
+  display: block;
+  margin: -8px -8px 0;
+}
+
+.green-bar {
+  background-color: #008000;
+  width: 1025px;
+  height: 100px;
+  display: block;
+  margin: 0 -8px;
+}
+
+.blue-bar {
+  background-color: #00f;
+  width: 1025px;
+  height: 100px;
+  display: block;
+  margin: 0 -8px -8px;
+}
